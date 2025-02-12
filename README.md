@@ -1,2 +1,8 @@
 # applied_research
-This folder is for various doctoral programs that are focused on Industrial Engineering and that offers reduced time for award of the Applied Research Degree.
+This folder is for various doctoral programs that are focused on Industrial Engineering and that offers reduced time for award of the Applied Research (AR) Degree.
+
+AR is not a new one,however, it finds it improtance this time as there is a dire need of research ready employees, howeevr there are not many who hold PhD. AR can help this by addressing the talen shortage by way of improving the supply chain time from say 5-7 years to 2-3 years. We offer advise and tools that can help bridge the gaps and offer corporates to employ research- skills ready candidates. These can be personalised based on the needs of the business needs, priorities and urgency. 
+
+We have tie-ups with various Corporates and Universities that offer similar programs and we can help you started on these. 
+
+
